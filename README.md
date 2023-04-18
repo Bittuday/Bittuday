@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittuday&label=Profile%20views&color=0e75b6&style=flat" alt="bittuday" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bittuday" target="blank"><img src="https://img.shields.io/twitter/follow/bittuday?logo=twitter&style=for-the-badge" alt="bittuday" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bittuday2" target="blank"><img src="https://img.shields.io/twitter/follow/bittuday?logo=twitter&style=for-the-badge" alt="bittuday" /></a> </p>
 
 - 🌱 I’m currently learning **Software Development and Web Development**
 
